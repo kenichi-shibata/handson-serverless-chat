@@ -1,0 +1,5 @@
+#set($inputRoot = $input.path('$'))
+{
+  "track": "$input.params('track')"
+}
+
